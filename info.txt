@@ -1,0 +1,56 @@
+Formularz powinien zawieraæ:
+cena od do
+wagi od 1 do 3 (wa¿noœæ) dla powy¿szego range
+cena_od
+cena_do
+
+producent
+wagi od 1 do 3 (wa¿noœæ) dla powy¿szego range
+producent
+waga_producent
+
+
+stan techniczny
+wagi od 1 do 3 (wa¿noœæ) dla powy¿szego range
+stan_tech
+waga_stan_tech
+
+stan wizualny
+wagi od 1 do 3 (wa¿noœæ) dla powy¿szego range
+stan_wizual
+waga_stan_wizual
+
+Dla kogo? Do czego?
+do przegl¹dania internetu:
+procesor >= 1000
+ram >= 1
+karta_graficzna >=1
+bateria >=5000
+
+
+Dla graczy:
+procesor >= 3000
+ram >= 6
+karta_graficzna >=2
+bateria >=6000
+dysk >=1000
+
+
+dla grafików
+procesor >= 4000
+ram >= 12
+karta_graficzna >=4
+bateria >=7000
+dysk >= >= 500
+
+Wiêcej czasu przy komputerze spêdzam:
+w domu:
+bateria >= 3000
+
+zdalnie:
+bateria >= 10000
+
+Urz¹dzenia peryferyjne w zestawie?
+tak:
+myszka OR klawiatura OR monitor == 1
+
